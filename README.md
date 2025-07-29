@@ -51,7 +51,7 @@ This dashboard enables data scientists, analysts, and football enthusiasts to in
 
 ### ⚽ 4. Animated Bar Chart (Manim)
 - A custom bar chart using soccer balls to compare average player market values by jersey number
-<img src="www/manim_bar_chart.png" width="100%" alt="Bar Chart"/>
+<img src="www/manim_bar_chart_screenshot.png" width="100%" alt="Bar Chart"/>
 
 ---
 
