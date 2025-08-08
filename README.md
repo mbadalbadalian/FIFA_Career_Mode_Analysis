@@ -8,14 +8,14 @@ An interactive R Shiny dashboard that visualizes and analyzes 120,000+ player re
 
 ## Table of Contents
 
-- [Project Overview](#-project-overview)  
-- [Features](#-features)  
-- [Tech Stack](#-tech-stack)  
-- [Dataset Description](#-dataset-description)
-- [How the App Works](#-how-the-app-works)  
-- [Running the App](#️-running-the-app)  
-- [Author](#️-author)  
-- [License](#-license)
+- [Project Overview](#project-overview)  
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Dataset Description](#dataset-description)
+- [How the App Works](#how-the-app-works)  
+- [Running the App](#️running-the-app)  
+- [Author](#️author)  
+- [License](#license)
 
 ---
 
